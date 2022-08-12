@@ -19,7 +19,7 @@ body {
   margin: 10px 20px;
 }
 
-.about-accordion {
+.big-accordion {
   display: flex;
   justify-content: space-between;
   align-items: center;
