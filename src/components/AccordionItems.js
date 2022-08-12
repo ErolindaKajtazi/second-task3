@@ -1,6 +1,8 @@
 import React from "react";
 import Accordion from "./Accordion";
 
+import './AccordionItems.css';
+
 function AccordionItems() {
   const accordionData = [
     {

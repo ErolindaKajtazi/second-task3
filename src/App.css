@@ -24,6 +24,23 @@ body {
   justify-content: space-between;
   align-items: center;
 
-  padding-bottom: 30px;
+  padding: 10px 20px;
 
+  font-weight: 600;
+  font-size: 20px;
+  color: #222;
+
+}
+
+.profile-desc {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  column-gap: 16px;
+}
+
+
+.span {
+  font-size: 16px;
+  font-weight: 300;
 }
